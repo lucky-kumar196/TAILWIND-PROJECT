@@ -21,3 +21,8 @@
 - **Type Checking**: After completing tasks, run `bun run typecheck` to verify type safety
 - **Build Command**: Do NOT run the build command unless the user explicitly requests it
 - **Default Verification**: Use typecheck as the standard post-completion verification step
+
+
+## Here Is URL for Preview
+
+[Tailwind-Project(https://tailwind-project-8yc8.onrender.com/)]
